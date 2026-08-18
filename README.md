@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Dhanusri+S!;UI%2FUX+%26+Full+Stack+Developer;Creative Thinker+%7C+Salesforce+Ranger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+I'm+Dhanusri+S!;UI%2FUX+Designer+%26+Full+Stack+Developer;AI-Powered+Software+Developer;Salesforce+Ranger" alt="Dhanusri S" />
 </h1>
 
 <p align="center">
@@ -198,3 +198,6 @@ const dhanusri = {
 
 <br/>
 
+<p align="center">
+  <i>Designed with ❤️ for <b>Dhanusri S</b></i>
+</p>
