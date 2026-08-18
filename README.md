@@ -22,7 +22,7 @@
 const dhanusri = {
   pronouns: "she" | "her",
   education: "B.E. Computer Science & Engineering @ KIT (2024-2028)",
-  currentCGPA: "7.98 / 10.0",
+  currentCGPA: "8.33 / 10.0",
   code: ["Python", "JavaScript", "SQL", "C", "HTML5", "CSS3"],
   techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "Vite"],
   aiAndML: ["Google Gemini API", "OpenAI API", "NLP", "Prompt Engineering"],
