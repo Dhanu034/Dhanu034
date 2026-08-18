@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Dhanusri+S!;AI%2FML+%26+Full+Stack+Developer;Competitive+Programmer+%7C+Salesforce+Ranger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Dhanusri+S!;UI%2FUX+%26+Full+Stack+Developer;Creative Thinker+%7C+Salesforce+Ranger" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Computer Engineering Student @ KIT | Passionate about Full-Stack, AI Applications & Competitive Programming</b>
+  <b>Computer Engineering Student @ KIT | Passionate about Full-Stack, Designing & AI</b>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 const dhanusri = {
   pronouns: "she" | "her",
   education: "B.E. Computer Science & Engineering @ KIT (2024-2028)",
-  currentCGPA: "7.98 / 10.0",
+  currentCGPA: "8.33 / 10.0",
   code: ["Python", "JavaScript", "SQL", "C", "HTML5", "CSS3"],
   techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "Vite"],
   aiAndML: ["Google Gemini API", "OpenAI API", "NLP", "Prompt Engineering"],
